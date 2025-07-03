@@ -16,3 +16,4 @@ int main() {
     }
     return 0;
 }
+// This program prints a right-angled triangle pattern of asterisks based on user input for the size of the triangle.
